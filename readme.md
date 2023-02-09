@@ -12,7 +12,8 @@ Sur les périphériques dont la largeur est supérieure à 1024px, l'image de fo
 Sous la zone demandée précédemment, créer 2 zones placées l'une en dessous de l'autre sur mobile. Sur les écrans dont la largeur est supérieure à 1024px, ces 2 zones devront être côte à côte. Ecrire un article (titre et contenu) dans chacune de ces zones.
 
 ## Exercice 4
-Dans le footer, créer une liste dont les items seront répartis uniformément sur la largeur, pour les écrans de plus de 576px de largeur. Les items de la liste seront placés les uns en dessous des autres sur les autres écrans.
+Dans le footer, pour les écrans de plus de 576px de largeur, créer une liste dont les items seront répartis uniformément sur la largeur.
+Pour les autres écrans, les items de la liste seront placés les uns en dessous des autres.
 
 ## A vous de coder !!
 > Soyez précis, et surtout, en responsive, pensez désormais "Mobile First"
