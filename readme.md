@@ -1,4 +1,4 @@
-# Media query pour LaManu
+# Media query
 > L'exercice devra respecter les normes et les standards du WEB (ex. https://www.w3.org/ et https://checklists.opquast.com/fr/)
 > Vous penserez à utiliser une feuille de style externe
 
